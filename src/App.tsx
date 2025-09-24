@@ -1,5 +1,4 @@
-import React, { useState } from "react";
-import type { ChangeEvent, FormEvent } from "react";
+import { useState, type ChangeEvent, type FormEvent } from "react";
 import Calendar from "react-calendar";
 import "react-calendar/dist/Calendar.css";
 
